@@ -34,7 +34,7 @@ Feature: Fashiondays register feature
 
     Examples:
       | email                   | password    |
-      |mariuscomaneahoo.com     |gk960474|
+      |mariuscomaneahoo.com     |Test123!|
       |mriuscomaneciu@yahoo.com |      |
-      |                         |gak960474|
+      |                         |Test113!|
       |anaaremere1982@gmail.com |Test123!|

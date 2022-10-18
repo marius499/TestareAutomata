@@ -20,9 +20,9 @@ Feature: Fashiondays login feature
 
     Examples:
       | email                   | password    |
-      |mariuscomaneciu@yahoo.com|gk960474|
-      |mriuscomaneciu@yahoo.com|gk960474|
-      |mariuscomaneciu@yahoo.com|gak960474|
+      |mariuscomaneciu@yahoo.com|Test123!|
+      |mriuscomaneciu@yahoo.com|Test123!|
+      |mariuscomaneciu@yahoo.com|Test123|
       |anaaremere1982@gmail.com|Test123!|
 
 
